@@ -1,0 +1,2 @@
+# Group6_Capstone_Project_for_Heart_Disease_Prediction
+Four models for predicting heart disease
